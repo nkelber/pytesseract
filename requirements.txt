@@ -1,12 +1,2 @@
-giflib
-jpeg
-zlib
-libpng
-libtiff
-little-cms2
-openjpeg
-webp
-leptonica
-tesseract
 pytesseract
 Pillow
